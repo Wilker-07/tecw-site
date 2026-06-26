@@ -173,7 +173,7 @@ const SERVICES_DATA = {
       title: "Sistemas de Refrigeração e HVAC",
       description: "Soluções completas de refrigeração comercial e sistemas de ar condicionado residencial ou industrial.",
       class: "icon-refrigeration",
-      image: "https://images.unsplash.com/photo-1621905252507-b354bc25edac?auto=format&fit=crop&w=800&q=80",
+      image: "https://www.produttivo.com.br/blog/wp-content/uploads/2022/08/sistema-hvac.jpg",
       icon: "snowflake",
       points: [
         "Instalação e higienização de ar condicionado",
