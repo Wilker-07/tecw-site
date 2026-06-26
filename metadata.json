@@ -1,0 +1,6 @@
+{
+  "name": "TEC W Serviços Gerais",
+  "description": "Página de vendas de alta conversão para TEC W Serviços Gerais. Serviços profissionais de elétrica, refrigeração, eletrodomésticos, portões automáticos, câmeras CFTV e automação industrial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
