@@ -1570,6 +1570,71 @@ footer {
 .skip-link:focus {
   top: 24px;
 }
+.logo-horizontal{
+    display:flex;
+    align-items:center;
+    gap:12px;
+}
+
+.site-logo{
+    width:64px;
+    height:auto;
+    display:block;
+}
+
+.footer-logo{
+    display:flex;
+    align-items:center;
+    gap:12px;
+}
+
+.footer-site-logo{
+    width:48px;
+    height:auto;
+    display:block;
+}
+
+.logo-text{
+    display:flex;
+    flex-direction:column;
+    line-height:1.1;
+}
+
+.logo-title{
+    font-size:22px;
+    font-weight:800;
+    color:#004AAD;
+    text-transform:uppercase;
+    letter-spacing:.05em;
+}
+
+.logo-subtitle{
+    font-size:10px;
+    font-weight:700;
+    color:#FF6B00;
+    text-transform:uppercase;
+    letter-spacing:.2em;
+}
+
+@media (max-width:768px){
+
+    .site-logo{
+        width:52px;
+    }
+
+    .footer-site-logo{
+        width:40px;
+    }
+
+    .logo-title{
+        font-size:18px;
+    }
+
+    .logo-subtitle{
+        font-size:8px;
+    }
+
+}
 
 :focus-visible {
   outline: 3px solid var(--color-primary);
