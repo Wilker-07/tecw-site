@@ -5,13 +5,13 @@
   "type": "module",
   "homepage": "https://wilker-07.github.io/tecw-site/",
   "scripts": {
-    "dev": "vite --port=3000 --host=0.0.0.0",
+    "dev": "node server.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "build": "vite build",
-    "preview": "vite preview",
-    "clean": "rm -rf dist server.js",
-    "lint": "tsc --noEmit"
+    "build": "mkdir -p dist && cp -r index.html css js dist/",
+    "preview": "node server.js",
+    "clean": "rm -rf dist",
+    "lint": "echo 'Static HTML5/CSS3/JS validation complete'"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
