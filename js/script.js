@@ -27,7 +27,7 @@ const TRANSLATIONS = {
       subtitle: "Eletricista, Assistência de Eletrodomésticos, Câmaras Frias, Ar Condicionado, Automatização de Portões, Câmeras de Segurança CFTV e Automação Industrial.",
       cta: "Entrar em Contato no WhatsApp",
       secondaryCta: "Conhecer Serviços",
-      trustPilotText: "Mais de 1.200 clientes atendidos com nota máxima de 5.0 estrelas"
+      trustPilotText: "Mais de 15 clientes atendidos com nota máxima de 5.0 estrelas"
     },
     services: {
       tag: "Especialidades",
@@ -86,7 +86,7 @@ const TRANSLATIONS = {
       subtitle: "Electrical, Refrigeration, Home Appliances, Automation, Security Systems and Industrial Solutions.",
       cta: "Contact on WhatsApp",
       secondaryCta: "Explore Services",
-      trustPilotText: "Over 1,200 satisfied customers with a top rating of 5.0 stars"
+      trustPilotText: "Over 15 satisfied customers with a top rating of 5.0 stars"
     },
     services: {
       tag: "Specialities",
